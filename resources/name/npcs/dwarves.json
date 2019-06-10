@@ -1,0 +1,25 @@
+{
+    "male": [
+        "Brunin",
+        "Dorman",
+        "Rorin",
+        "Hrolmir"
+    ],
+    "female": [
+        "Bara",
+        "Okra",
+        "Olara",
+        "Burinda",
+        "Nola"
+    ],
+    "lastname": [
+        "Stonefoot",
+        "Coppercheek",
+        "Undermount",
+        "Cavedweller",
+        "Brittlefoot",
+        "Hammerfield",
+        "Axebreaker",
+        "Stonefist"
+    ]
+}

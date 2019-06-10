@@ -1,0 +1,46 @@
+{
+    "male": [
+        "Hendrik",
+        "Henrik",
+        "Johannes",
+        "Janus",
+        "Bertus",
+        "Klaas",
+        "Archibald",
+        "Balthasar",
+        "Emanuel",
+        "Boris",
+        "Francois",
+        "Onno",
+        "Otto",
+        "Benkum",
+        "Uli",
+        "Uti",
+        "Bartolomeus",
+        "Ben",
+        "Metilius",
+        "Rogen"
+    ],
+    "female": [
+        "Mathilda",
+        "Yara",
+        "Lara",
+        "Mara",
+        "Isolde",
+        "Margarita",
+        "Agatha",
+        "Argi",
+        "Morgan",
+        "Huki",
+        "Yuki",
+        "Hilde",
+        ""
+    ],
+    "lastname": [
+        "Farseer",
+        "Stonebottom",
+        "Waters",
+        "Battleborn",
+        ""
+    ]
+}

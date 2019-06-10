@@ -1,0 +1,27 @@
+{
+    "male": [
+        "Castor",
+        "Edorfin",
+        "Mithorpa",
+        "Muril",
+        "Sulvar",
+        "Thaer"
+    ],
+    "female": [
+        "Lyn",
+        "Merilwen",
+        "Tala",
+        "Lydia",
+        "Thawen",
+        "Irileth",
+        "Lanae",
+        "Merwen",
+        "Ruki"
+    ],
+    "lastname": [
+        "Windblower",
+        "Talltree",
+        "Mindargen",
+        "Lilith"
+    ]
+}

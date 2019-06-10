@@ -1,0 +1,52 @@
+html {
+    min-height: 100%;
+    min-width: 100%;
+    background-size: cover;
+}
+
+body {
+    width: 80%;
+    min-height: 40rem;
+    margin: 5rem auto;
+    background: rgba(20, 20, 20, 0.6);
+    color: #fff;
+    font-family: 'Consolas', monospace;
+    box-shadow: 2px 2px 5px rgba(255, 255, 255, 0.4);
+    border-radius: 1em;
+}
+
+#wrapper {
+    
+}
+
+.statblock {
+    width: 600px;
+    border: 1px solid #000;
+    padding: .5em;
+}
+
+.statblock .title {
+    font-size: 2em;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.statblock .subtitle {
+    font-style: italic;
+    text-transform: capitalize;
+}
+
+.statblock span {
+    display: block;
+}
+
+.statblock th,
+.statblock td {
+    width: 100px;
+    text-align: center;
+}
+
+.statblock .feat,
+.statblock .action {
+    margin-bottom: .5em;
+}
